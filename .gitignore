@@ -1,0 +1,9 @@
+node_modules/
+.vscode/
+.idea/
+info/
+
+default.json
+
+*.txt
+*.zip
